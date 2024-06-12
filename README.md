@@ -4,7 +4,7 @@ Custom shellcode loader written in C++. This will grab your web hosted malware a
 
 This project is password protected at this time.
 
-![alt text](https://github.com/ryansisco/RyansRemoteLoader/blob/main/RRL.png?raw=true)
+![alt text](https://github.com/ryansisco/RyansRemoteLoader/blob/main/GIF.gif)
 
 ## Examples:
 RRL.exe will take the remote bin file as a parameter like:
